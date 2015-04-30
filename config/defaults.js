@@ -50,7 +50,7 @@ define({
 
     "enableFacebook": false,
     "enableTwitter": false,
-    "enableGoogleplus": false,
+    "enableGoogleplus": true,
 
     "facebookAppId": "",
 
