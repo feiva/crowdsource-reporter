@@ -1,0 +1,32 @@
+﻿
+
+.esriCTApplicationColor
+{
+    color: ${SelectedThemeColor};
+}
+
+.esriCTBGColor ,.esriCTMobileBurgerIcon span, .esriCTMobileBurgerIcon span:before, .esriCTMobileBurgerIcon span:after, .esriCTItemSummarySelected
+{
+    background-color: ${SelectedThemeColor};
+}
+
+.esriCTBorder, .esriCTBorderLeft, .esriCTBorderTop, .esriCTBorderRight, .esriCTBorderBottom
+{
+    border-color: ${SelectedThemeColor};
+}
+
+/* Overriden Styles */
+
+.btn-default:hover, .btn-default:focus, .btn-default:focus {
+     background-color: #fff;
+     border-color: #ccc;
+     color: ${SelectedThemeColor};
+}
+
+.btn-default:active
+{
+    background-color: ${SelectedThemeColor};
+    color: #fff;
+}
+
+/* End of Overriden Styles */

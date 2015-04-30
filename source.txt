@@ -1,0 +1,5 @@
+commit 2738f807b5e0fb626b2dc39334b77edfefe97910
+Author: Allison Muise <amuise@esri.com>
+Date:   Wed Apr 29 10:32:35 2015 -0700
+
+    add new languages
